@@ -9,6 +9,17 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=42&pause=1000&color=4642F7&background=FFFFFF00&center=true&vCenter=true&random=false&width=1000&lines=Frontend+developer+%40+Claranet;7%2B+years+of+coding+experience;Always+learning+new+things)](https://git.io/typing-svg)
 
+<p align="center">
+  <a href="https://twitter.com/thecoder93"><img width="32px" alt="Twitter" title="Twitter profile" src="https://i.imgur.com/FFp6rvR.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.linkedin.com/in/thecoder93/" alt="Linkedin" title="Linkedin profile"><img width="32px" src="https://i.imgur.com/De9Zy6S.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://dev.to/thecoder93"><img width="42px" alt="Dev.to" title="Thecoder93 Dev.to" src="https://i.imgur.com/H0cw6pZ.png"></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://mastodon.uno/@thecoder93"><img width="32px" alt="Mastodon" title="Mastodon" src="https://i.imgur.com/e4ybs5V.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://ko-fi.com/thecoder93"><img width="52px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/cxvvwzl.png"/></a>
+</p>
 
  ## 👨🏼‍💻About me
 I'm a front-end developer. Passionate programmer, I'm currently works remotely at Claranet Italia. <br>
