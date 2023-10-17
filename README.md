@@ -21,3 +21,5 @@ I started, some time ago, to be a speaker disseminating my knowledge and experie
 
 ## 🏷️ Holopin Badges
 <p><a href="https://www.holopin.io/@thecoder93"><img src="https://holopin.me/thecoder93" alt="Holopin board"></a></p>
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Z8Z7Q6L2O)
