@@ -49,6 +49,11 @@ I started, some time ago, to be a speaker disseminating my knowledge and experie
 </p> 
 <br><br>
 
+## 🎙️ Public activity timeline
+
+#### Meetup
+- 31 May (Beer Tech Group) - Netlify: Deployare non è mai stato così facile 🇮🇹
+
 ## 🏷️ Holopin Badges
 <p><a href="https://www.holopin.io/@thecoder93"><img src="https://holopin.me/thecoder93" alt="Holopin board"></a></p>
 
