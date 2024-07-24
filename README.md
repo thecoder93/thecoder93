@@ -7,7 +7,7 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=42&pause=1000&color=4642F7&background=FFFFFF00&center=true&vCenter=true&random=false&width=1000&lines=Frontend+developer+%40+Claranet;7%2B+years+of+coding+experience;Always+learning+new+things)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=42&pause=1000&color=4642F7&background=FFFFFF00&center=true&vCenter=true&random=false&width=1000&lines=Frontend+developer+%40+Claranet;8%2B+years+of+coding+experience;Always+learning+new+things)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="https://twitter.com/thecoder93"><img width="32px" alt="Twitter" title="Twitter profile" src="https://i.imgur.com/FFp6rvR.png"/></a>
