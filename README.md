@@ -64,7 +64,8 @@ I started, some time ago, to be a speaker disseminating my knowledge and experie
 ### 2023
 #### Meetup
 - 31 May (Beer Tech Group) - Netlify: Deployare non è mai stato così facile 🇮🇹
-
+  
+### 2025
 #### Webinar 🌍
 - 29 May (Claranet): How to revitalize AngularJS with React 🇬🇧
 
