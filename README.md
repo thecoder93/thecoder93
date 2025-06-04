@@ -65,10 +65,10 @@ I started, some time ago, to be a speaker disseminating my knowledge and experie
 #### Meetup
 - 31 May (Beer Tech Group) - Netlify: Deployare non è mai stato così facile 🇮🇹
 
-<br><br>
-
 #### Webinar 🌍
 29 May (Claranet): How to revitalize AngularJS with React 🇬🇧
+
+<br><br>
 
 ## 🏷️ Holopin Badges
 <p><a href="https://www.holopin.io/@thecoder93"><img src="https://holopin.me/thecoder93" alt="Holopin board"></a></p>
