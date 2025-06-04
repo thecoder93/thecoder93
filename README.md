@@ -66,7 +66,7 @@ I started, some time ago, to be a speaker disseminating my knowledge and experie
 - 31 May (Beer Tech Group) - Netlify: Deployare non è mai stato così facile 🇮🇹
 
 #### Webinar 🌍
-29 May (Claranet): How to revitalize AngularJS with React 🇬🇧
+- 29 May (Claranet): How to revitalize AngularJS with React 🇬🇧
 
 <br><br>
 
