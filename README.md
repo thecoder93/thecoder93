@@ -67,6 +67,9 @@ I started, some time ago, to be a speaker disseminating my knowledge and experie
 
 <br><br>
 
+#### Webinar 🌍
+29 May (Claranet): How to revitalize AngularJS with React 🇬🇧
+
 ## 🏷️ Holopin Badges
 <p><a href="https://www.holopin.io/@thecoder93"><img src="https://holopin.me/thecoder93" alt="Holopin board"></a></p>
 
